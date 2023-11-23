@@ -1,0 +1,47 @@
+
+.div1{
+	background-color: blue;
+	height: 200px;
+	width: 200px;
+
+/*Border Properties*/
+	/*border-width: 10px;
+	border-style: dotted;
+	border-color: red;*/
+
+	border: 8px dotted red;
+	border-radius: 30%;
+}
+
+.div2{
+	background-color: red;
+	height: 100px;
+	width: 200px;
+
+/*PADDING*/
+	/*padding-left: 50px;
+	padding-right: 50px;
+	padding-top: 100px;
+	padding-bottom: 90px;*/
+
+	padding: 50px 50px 100px 100px;
+}
+
+
+.div3{
+
+	background-color: green;
+	height: 100px;
+	width: 90%;
+	border: 8px solid black;
+}
+.div3 a{
+	color: yellow;
+	margin: 0px 0px 0px 50px;
+	font-size: 30px;
+}
+
+.div3 input{
+	margin: 0px 0px 0px 500px;
+}
+
